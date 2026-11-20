@@ -1,0 +1,12 @@
+# Ignore large binary images, downloaded APKs/tools, and cloned upstream reference trees
+releases/
+upstream/
+apks/
+tools/
+*.img
+*.img.gz
+*.bin
+*.apk
+*.zip
+__pycache__/
+*.pyc
